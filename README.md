@@ -1,4 +1,4 @@
-# Independence Day Website
+# Independence Day Tribute
 
 [![Live Website](https://img.shields.io/badge/Live_Website-Visit-success?style=for-the-badge)](https://independencedaywebpage2025.netlify.app/)
 
@@ -18,7 +18,7 @@ A tribute website for India's Independence Day, created on 15 August 2025. The p
 ## Repository Contents
 
 ```text
-independence-day-website/
+independence-day-tribute/
 |-- README.md
 |-- Independence  Website/
 |   |-- assets/
